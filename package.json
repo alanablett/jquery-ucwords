@@ -1,0 +1,11 @@
+{
+	"name": "ucwords",
+	"version": "0.0.1",
+	"description": "Ucwords is a simple jQuery plugin to transform text to uppercase first letters for words given a set of parameters",
+	"main": "Gulpfile.js",
+	"author": "Alan Ablett",
+	"devDependencies": {
+		"gulp": "~3.8.6",
+		"gulp-qunit": "~0.3.3"
+	}
+}

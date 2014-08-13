@@ -1,5 +1,8 @@
 (function($){
 	
+	// Define the module under test and create a fixture variable that we can use
+	// throughout the tests. It is just a simple paragraph with some text. Check
+	// the test runner html file for the fixture.
 	module('jQuery#ucwords', {
 		setup : function(){
 			this.fixture = $('p#fixture')
