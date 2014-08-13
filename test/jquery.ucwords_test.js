@@ -33,8 +33,4 @@
 		strictEqual( this.fixture.ucwords(3, 2000).text(), 'Lorem ipsum dolor Sit Amet Consectetur Adipisicing.' );
 	});
 	
-	test('introduce a false error for travis', 1, function(){
-		strictEqual( false, true );
-	});
-	
 })(jQuery);
