@@ -1,4 +1,4 @@
-# jQuery ucwords plugin
+# jQuery ucwords plugin [![Build Status](https://travis-ci.org/alanablett/jquery-ucwords.svg?branch=master)](https://travis-ci.org/alanablett/jquery-ucwords)
 
 A really stupid plugin to get to grips with TDD as well as integration with travis.
 
