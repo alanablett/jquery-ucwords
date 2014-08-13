@@ -5,6 +5,7 @@ A really stupid plugin to get to grips with TDD as well as integration with trav
 ## Running the tests
 
 From the command line
+* `npm install -g gulp` (if you dont already have gulp)
 * `npm install`
 * `gulp`
 
